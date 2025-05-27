@@ -1,6 +1,5 @@
 # Конфигурационные файлы
 config.py
-performance_config.py
 
 # Python
 __pycache__/
